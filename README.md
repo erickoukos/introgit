@@ -2,3 +2,6 @@
 ## Installing Git and Creating an Account
 This is done by going to this url https://git-scm.com/downloads
 then create an account on GitHub at https://github.com
+
+## New Files - index.php
+Modified the README file and Index File
